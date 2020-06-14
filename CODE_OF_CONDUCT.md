@@ -33,8 +33,8 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Community admins and mods are responsible for clarifying the standards of 
-acceptable behavior and are expected to take appropriate and fair corrective 
+Community admins and mods are responsible for clarifying the standards of
+acceptable behavior and are expected to take appropriate and fair corrective
 action in response to any instances of unacceptable behavior.
 
 Community admins and mods have the right and responsibility to remove or
@@ -46,18 +46,20 @@ threatening, offensive, or harmful.
 ## Scope
 
 This Code of Conduct applies both within community-internal and in public spaces
-when an individual is representing the community or projects thereof. Representation of the community may be further defined and clarified by community leaders.
+when an individual is representing the community or projects thereof. Representation
+of the community may be further defined and clarified by community leaders.
 
-This Code of Conduct also applies to the Slack community at swiftde.slack.com offshoots of it in other networks (e.g. Matrix and Discord).
+This Code of Conduct also applies to the Slack community at swiftde.slack.com offshoots
+of it in other networks (e.g. Matrix and Discord).
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the community admins at bilalreffas@gmail.com or 
-swiftde@kilian.io. All complaints will be reviewed and investigated and will 
-result in a response that is deemed necessary and appropriate to the circumstances. 
-The admin team is obligated to maintain confidentiality with regard to the reporter 
-of an incident. Further details of specific enforcement policies may be posted 
+reported by contacting the community admins at bilalreffas@gmail.com or
+swiftde@kilian.io. All complaints will be reviewed and investigated and will
+result in a response that is deemed necessary and appropriate to the circumstances.
+The admin team is obligated to maintain confidentiality with regard to the reporter
+of an incident. Further details of specific enforcement policies may be posted
 separately.
 
 Community admins and mods who do not follow or enforce the Code of Conduct in good
