@@ -8,7 +8,8 @@ For an English version, please check CODE_OF_CONDUCT.md.
 
 Im Interesse der Förderung eines offenen und einladenden Umfelds versprechen wir als
 Administratoren und Moderatoren der Community, die Teilnahme an unserer
-Community eine belästigungsfreie Erfahrung für jeden, unabhängig von Alter, Körpergröße, Behinderung, Ethnizität, Geschlechtsmerkmalen, Geschlechtsidentität und -ausdruck,
+Community eine belästigungsfreie Erfahrung für jeden, unabhängig von Alter, Körpergröße, 
+Behinderung, Ethnizität, Geschlechtsmerkmalen, Geschlechtsidentität und -ausdruck,
 Erfahrungsniveau, Ausbildung, sozio-ökonomischer Status, Nationalität, persönlichem
 Aussehen, Rasse, Religion oder sexueller Identität und Orientierung zu machen.
 
